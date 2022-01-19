@@ -5,6 +5,6 @@ I am Isaac from the Philippines, and I love Coding! I enjoy learning Programming
 
 Skills: HTML / CSS / JS / React
 
-(https://github.com/IsaacSarte)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/isaac-sarte-560537209//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://isaacsarte.github.io/batch14-fe-activities/)  
+[img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/IsaacSarte)]  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/isaac-sarte-560537209//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://isaacsarte.github.io/batch14-fe-activities/)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacSarte)](https://github.com/anuraghazra/github-readme-stats)
