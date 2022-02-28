@@ -6,5 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 
 <p><summary><b>👉🏽 My Recent Github Activity</b></summary></p>
+<br/>
 <a href="https://github.com/IsaacSarte"><img alt="Isaac's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IsaacSarte&custom_title=Isaac%27s%20Contribution%20Graph&theme=rogue" /></a>
 <br/>
